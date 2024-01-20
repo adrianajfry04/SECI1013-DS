@@ -1,0 +1,2 @@
+# S U M M A R Y
+The course, which is taught by Dr. Noorfa Haszlina binti Mustafa, exposes students to the fundamentals and applications of discrete structure in computer science. We learned how to solve computer science problems using set theory, relations, and functions, how to examine and resolve problems using recurrence relations and counting methods, how to incorporate graph theory and trees to real-life issues, and how to construct circuits and problems using deterministic finite automata and finite state machines.
